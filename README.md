@@ -1,2 +1,2 @@
 # libguides-templates
-code snippets for doing stuff in UBC Libguides
+A collection of HTML/CSS snippets for LibGuides owners & editors at UBC (or elsewhere).
